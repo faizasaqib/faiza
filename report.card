@@ -1,0 +1,79 @@
+<html>
+<head>
+<title> REPORT.CARD </title>
+<link rel="shortcut icon" type="x/icon" href="C:\Users\Saqib\Desktop\faiza\png-transparent-report-card-student-school-reports-s-white-text-logo.png">
+</head>
+<body bgcolor="skyblue">
+<br><br>
+<h1 align="center"> RESULT </h1>
+<table border="2" align="center">
+<tr>
+<th> SR.NO. </th>
+<th colspan="2"> COURSE </TH>
+<th> SEMESTER </th>
+<th> CREDITS </th>
+<th colspan="2"> GRADES </th>
+</tr>
+<tr>
+<td> </td>
+<td> CODE </td>
+<td> NAME </td>
+<td></td>
+<td></td>
+<td> LETTERS </td>
+<td> POINTS </td>
+</tr>
+<tr>
+<td> 1. </td>
+<td> 223 </td>
+<td> programming </td>
+<td> fall </td>
+<td> 3 </td>
+<td> A </td>
+<td> 334/400 </td>
+</TR>
+<tr>
+<td> 2. </td>
+<td>332 </td>
+<td> maths </td>
+<td> fall </td>
+<td> 3 </td>
+<td> A </td>
+<td> 356/400 </td>
+</tr>
+<tr>
+<td> 3.</td>
+<td> 442 </td>
+<td> digital electronics </td>
+<td> fall </td>
+<td> 3 </td>
+<td> B </td>
+<td> 299/400 </td>
+</tr>
+<tr>
+<td> 4. </td>
+<td> 228 </td>
+<td> network analysis </td>
+<td> fall </td>
+<td> 3 </td>
+<td> B </td>
+<td> 301/400 </td>
+</tr>
+<tr>
+<td> 5. </td>
+<td> 674 </td>
+<td> control system </td>
+<td> fall </td>
+<td> 3 </td>
+<td> A  </td>
+<td> 378/400 </td>
+</tr>
+<footer>
+<tr>
+<td colspan="5" align="center"> TOTAL </td>
+<td> B </td>
+<td> 1668/2000 </td>
+</tr>
+</footer>
+</body>
+</html>
